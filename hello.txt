@@ -1,6 +1,10 @@
-hello git  first
-hello git  second
-hello git  hello harnd
-hello git  master test
-hello git  hot-fix test
-
+git常用命令：
+  
+github操作命令：
+  1、查看别名
+      git remote -v
+  2、设置别名
+      git remote add 别名 url
+  3、将分支推送到github中
+      git push 别名 分支名
+      
