@@ -7,4 +7,5 @@ github操作命令：
       git remote add 别名 url
   3、将分支推送到github中
       git push 别名 分支名
-      
+  4、克隆远程仓库
+      git clone 远程仓库地址
